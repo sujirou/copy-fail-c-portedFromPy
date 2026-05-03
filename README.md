@@ -2,7 +2,7 @@
 
 *[English (en)](README.md) ∙ [日本語 (ja)](README.ja.md) ∙ [简体中文 (zh-cn)](README.zh-cn.md) ∙ [한국어 (ko)](README.ko.md) ∙ [Русский (ru)](README.ru.md)*
 
-A cross-platform C reimplementation of the original [Copy Fail Linux LPE (CVE-2026-31431)](https://github.com/sujirou/copy-fail-CVE-2026-31431) Python script so that it runs on an ARM64 architecture, disclosed 2026-04-29 by Theori / Xint. See the canonical writeup at
+A cross-platform C reimplementation ported from the original Python script [Copy Fail Linux LPE (CVE-2026-31431)](https://github.com/sujirou/copy-fail-CVE-2026-31431) so that it runs on an ARM64 architecture, disclosed 2026-04-29 by Theori / Xint. See the canonical writeup at
 [copy.fail](https://copy.fail/) for the full vulnerability description, timeline,
 and Theori's discovery process. Animoolz!
 
